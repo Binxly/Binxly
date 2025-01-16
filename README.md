@@ -4,7 +4,7 @@
 
 **`Digital Nomad (Developer/GenAI Engineer/Tinkerer)`**
 
-I'm a full-stack developer and generative model fine-tuner with a passion for exploring the intersections of technology and creativity. You can find my fine-tuned generative diffusion model results over on [Instagram](https://www.instagram.com/binx.ly), where my personal blend of styles from over 2,000 trained models has amassed ~80k followers. Outside of fine-tuning models and personal development projects, you'll find me experimenting with new tech, tweaking my Arch (btw) configuration, or sharing knowledge and exchanging ideas with open source contributors and machine learning enthusiasts over on Discord. I sometimes publish blog posts to [my website](https://binx.page), typically bringing together notes on a particular subject, (attempting) to create educational content, or sharing musings.
+I'm an indie full-stack developer and generative model fine-tuner with a passion for exploring the intersections of technology and creativity. You can find my fine-tuned generative diffusion model results over on [Instagram](https://www.instagram.com/binx.ly), where my personal blend of styles from over 2,000 trained models has amassed ~80k followers. Outside of fine-tuning models and personal development projects, you'll find me experimenting with new tech, tweaking my Arch (btw) configuration, or sharing knowledge and exchanging ideas with open source contributors and machine learning enthusiasts over on Discord. I sometimes publish blog posts to [my website](https://binx.page), typically bringing together notes on a particular subject, (attempting) to create educational content, or sharing musings.
 
 <p align="center">
   <a href="https://github.com/Binxly?tab=repositories&sort=stargazers">
