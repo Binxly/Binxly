@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Zac Bagley
+# 🤖 Zac
 
 **`Digital Nomad (Developer/GenAI Engineer/Tinkerer)`**
 
