@@ -21,7 +21,7 @@ I'm an indie full-stack developer and generative model fine-tuner with a passion
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Tools 🛠️
 
 <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -40,7 +40,7 @@ I'm an indie full-stack developer and generative model fine-tuner with a passion
 
 ---
 
-### 📊 Stats
+### 📊 Stats 📊
 
 ![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binxly&show_icons=true&theme=calm)
 
