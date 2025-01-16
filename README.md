@@ -42,7 +42,7 @@ I'm an indie full-stack developer and generative model fine-tuner with a passion
 
 ### 📊 Stats
 
-![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binxly&show_icons=true&theme=material-palenight)
+![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binxly&show_icons=true&theme=calm)
 
 <!--[GitHub Streak](https://streak-stats.demolab.com?user=binxly&theme=gruvbox&border_radius=4.5)-->
 
