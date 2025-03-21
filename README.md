@@ -4,7 +4,7 @@
 
 **`Digital Nomad (Developer/GenAI Engineer/Tinkerer)`**
 
-I'm an indie full-stack developer and generative model fine-tuner with a passion for exploring the intersections of technology and creativity. I sometimes publish blog posts to [my website](https://binx.page), typically bringing together notes on a particular subject, (attempting) to create educational content, or sharing my thoughts on trends across technology.
+I'm an indie full-stack developer and generative model fine-tuner with a passion for exploring the intersections of technology and creativity. I sometimes publish blog posts to [my website](https://binx.page), bringing together research notes, creating educational content, or sharing my thoughts on trends in tech.
 
 <p align="center">
   <a href="https://instagram.com/binx.ly">
