@@ -2,10 +2,17 @@
 
 **`Digital Nomad (Developer/GenAI Engineer/Tinkerer)`**
 
-- Junior
-- Opinionated
-- Anti Anti Anti Anti accelerationism
-- Getting better at writing on [my website](https://binx.page)
+Junior
+
+Opinionated
+
+Anti Anti Anti Anti Accelerationism
+
+Trying to write on [my website](https://binx.page)
+
+---
+
+### Social
 
 <p align="center">
   <a href="https://instagram.com/binx.ly">
@@ -22,26 +29,21 @@
 
 ---
 
-### 🛠️ Tools 🛠️
+### Tools
 
 <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Jupyter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img alt="PyTorch" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img alt="Go" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 <img alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img alt="Raspberry Pi" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-<img alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img alt="Neovim" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <img alt="Blender" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 
-<br /><br />
-
 ---
 
-### 📊 Stats 📊
+### Stats
 
 ![Zac's GitHub stats](https://github-readme-stats.vercel.app/api?username=binxly&show_icons=true&theme=calm)
 
