@@ -1,10 +1,11 @@
 <div align="center">
 
-# 🤖  Zac  🤖
-
 **`Digital Nomad (Developer/GenAI Engineer/Tinkerer)`**
 
-I'm an indie full-stack developer and generative model fine-tuner with a passion for deep learning and web development. I sometimes publish blog posts to [my website](https://binx.page), bringing together research notes, creating educational content, or sharing my thoughts on recent trends in tech.
+- Junior
+- Opinionated
+- Anti Anti Anti Anti accelerationism
+- Getting better at writing on [my website](https://binx.page)
 
 <p align="center">
   <a href="https://instagram.com/binx.ly">
