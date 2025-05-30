@@ -1,6 +1,6 @@
 <div align="center">
 
-**`Digital Nomad (Developer/GenAI Engineer/Tinkerer)`**
+**`Digital Nomad | Tinkerer`**
 
 Junior
 
