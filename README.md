@@ -2,13 +2,7 @@
 
 **`Digital Nomad | Tinkerer`**
 
-Junior
-
-Opinionated
-
-Anti Anti Anti Anti Accelerationism
-
-Trying to write on [my website](https://binx.page)
+Junior, Opinionated, Trying to write on [my website](https://binx.page)
 
 ---
 
