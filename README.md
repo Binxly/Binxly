@@ -2,7 +2,7 @@
 
 **`Digital Nomad | Tinkerer`**
 
-Junior, Opinionated, Trying to write on [my website](https://binx.page)
+Opinionated junior, trying to build things often and write on [my website](https://binx.page)
 
 ---
 
