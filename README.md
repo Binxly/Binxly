@@ -1,6 +1,6 @@
 <div align="center">
 
-**`Digital Nomad | Tinkerer | Perpetual Student`**
+**`Digital Nomad | Tinkerer`**
 
 Sometimes write on [my website](https://binx.page)
 
